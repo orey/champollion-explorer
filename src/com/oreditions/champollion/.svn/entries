@@ -1,43 +1,0 @@
-8
-
-dir
-40
-https://calendarexplore.svn.sourceforge.net/svnroot/calendarexplore/ChampollionExplorer/src/com/oreditions/champollion
-https://calendarexplore.svn.sourceforge.net/svnroot/calendarexplore
-
-
-
-2009-03-14T21:45:10.129990Z
-38
-orey
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-4c23fe5b-a6df-4890-9306-0a6428cf0625
-
-visitor
-dir
-
-model
-dir
-
-HTMLrendering
-dir
-
-engine
-dir
-
-util
-dir
-
