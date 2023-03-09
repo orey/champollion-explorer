@@ -1,2 +1,2 @@
-java -jar CalendarExplorerBeta.jar chrono_win32.properties
+java -jar CalendarExplorerBeta.jar chrono_windows.properties
 
